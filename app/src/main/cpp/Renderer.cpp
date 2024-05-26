@@ -2,7 +2,7 @@
 
 #include <game-activity/native_app_glue/android_native_app_glue.h>
 #include <GLES3/gl3.h>
-#include <vulkan/vulkan.h>
+
 
 #include <memory>
 #include <vector>
