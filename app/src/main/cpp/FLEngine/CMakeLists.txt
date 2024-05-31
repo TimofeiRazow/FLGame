@@ -5,3 +5,5 @@ add_subdirectory(Graphics)
 add_subdirectory(Physics)
 add_subdirectory(Networking)
 add_subdirectory(Includes)
+add_library(FLEngine SHARED FLCore.cpp)
+

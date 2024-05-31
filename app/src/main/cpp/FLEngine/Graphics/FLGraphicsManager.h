@@ -1,0 +1,8 @@
+//
+// Created by user on 31.05.2024.
+//
+
+#ifndef FL_FLGRAPHICSMANAGER_H
+#define FL_FLGRAPHICSMANAGER_H
+
+#endif //FL_FLGRAPHICSMANAGER_H
